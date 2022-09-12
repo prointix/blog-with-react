@@ -30,10 +30,10 @@ All interface is in the api docs
 Tasks:
 
 - Setup project
+- Setup api base url with `axios`
 - Setup routes with `react-router-dom`
 - Setup auth context
 - Setup Protected Route
-- Setup api base url with `axios`
 - Create pages
   - Login
   - Register
